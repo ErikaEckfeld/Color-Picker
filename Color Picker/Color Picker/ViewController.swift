@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         Color(name: "Blue", color: .blue),
         Color(name: "Purple", color: .purple)
     ]
+    //added all of the possible colors to an array of colors
     
     override func viewDidLoad() {
         super.viewDidLoad()
